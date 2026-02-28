@@ -1,0 +1,24 @@
+﻿flutter : The Android 
+emulator exited with 
+code 1 during startup
+At line:1 char:1
++ flutter emulators 
+--launch Pixel_XL 
+2>&1 | Out-File 
+-FilePath emulato ...
++ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo    
+          : NotSpeci  
+  fied: (The Androi   
+ d emu... during s    
+tartup:String) []    
+, RemoteException
+    + FullyQualifiedE 
+   rrorId : NativeCo  
+  mmandError
+ 
+Android emulator 
+stderr:
+Address these issues 
+and try again.
